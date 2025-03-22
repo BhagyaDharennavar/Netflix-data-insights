@@ -15,7 +15,6 @@ Comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal
 ## Schema
 
 ```sql
-DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
     show_id      VARCHAR(5),
